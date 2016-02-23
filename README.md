@@ -16,7 +16,7 @@ Para iniciar o sistema é necessário conferir se os seguintes arquivos estão d
 * **nnids.py** - Arquivo principal (executável Python);
 * **brain.xml** - Arquivo contendo os pesos da Rede Neural;
 * **trainning.txt** - Arquivo contendo a base de conhecimento;
-* **alerta_medio.txt** - Arquivo de output dos alertas de nível médio...
+* **alerta_medio.txt** - Arquivo de output dos alertas de nível médio;
 * **alerta_alto.txt** - Arquivo de output dos alertas de nível alto.
 
 ### Modo de Uso ou Usage

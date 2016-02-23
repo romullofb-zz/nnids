@@ -1,5 +1,5 @@
 # NNIDS - Sistema de Detecção de Intrusão baseado em Redes Neurais
-##Por Rômullo F. Beltrame ;D
+##Por Rômullo F. Beltrame
 A prototype to a Network Intrusion Detect System based on Neural Networks. Presented in 2015 to obtain a degree.
 ### Introdução
 Este protótipo faz parte do Projeto de Conclusão de Curso para o obtenção do grau de bacharel em Ciência da Computação pela UNISUL - Universidade do Sul de Santa Catarina no ano de 2015.
